@@ -1,70 +1,107 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Hi, I'm Abhishek! 👋
 
-## Available Scripts
+  
+## 🚀 About Me
+Hey, I'm Abhishek! I'm a CS major who loves using technology to build things that make people's lives easier. I'm particularly interested in web development and machine learning, and have experience building full-stack web applications and training ML models. I'm especially passionate about using React to create engaging, user-friendly interfaces. When I'm not coding, you can usually find me watching anime or reading manga. I'm always looking to learn new things and collaborate with others, so feel free to check out my repositories and connect with me!
 
-In the project directory, you can run:
+  
+## 🛠 Skills
+Python, REACT, Javascript, HTML, CSS...
 
-### `npm start`
+  
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/abhishekdoifode)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abhi_doifode)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  
+# Modern UI/UX GPT-3
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Welcome to Modern UI/UX GPT-3, a website dedicated to exploring the latest advances in user interface and user experience design using GPT-3 technology. Our website is a valuable resource for designers, developers, and businesses looking to improve their products and services with cutting-edge AI tools. We'll share insights on the latest UI/UX trends and practices, tips and tricks for designing with GPT-3, and best practices for implementing AI-powered solutions that enhance the user experience. Whether you're a seasoned designer or a newcomer to UI/UX, our goal is to help you harness the power of GPT-3 to create modern, engaging, and intuitive user experiences that delight your customers and drive growth for your business.
 
-### `npm test`
+## Screenshots
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![App Screenshot](https://i.ibb.co/TR5LW9z/image.png)
 
-### `npm run build`
+  
+## Live Version
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+[Link](https://abhishekdoifode1.github.io/gpt/) to website.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+  
+## Run Locally
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Clone the project
 
-### `npm run eject`
+```bash
+  git clone https://github.com/abhishekdoifode1/gpt.git
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Go to the project directory
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+  cd gpt
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Install dependencies
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```bash
+  npm install
+```
 
-## Learn More
+Start the server
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```bash
+  npm run start
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+  
+## Deployment
 
-### Code Splitting
+#### Installation and Setup Instructions
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+Clone down this repository. You will need `node` and `npm` installed globally on your machine.  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Installation:
 
-### Making a Progressive Web App
+`npm install`  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+To Run Test Suite:  
 
-### Advanced Configuration
+`npm test`  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+To Start Server:
 
-### Deployment
+`npm start`  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+To Visit App:
 
-### `npm run build` fails to minify
+`localhost:3000`  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+  
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+  
+## Authors
+
+- [@abhishekdoifode1](https://www.github.com/abhishekdoifode1)
+
+  
+## Contributing
+
+Contributions are always welcome!
+
+See `contributing.md` for ways to get started.
+
+Please adhere to this project's `code of conduct`.
+
+  
+## Feedback
+
+If you have any feedback, please reach out to us at abhishekdoifode1@gmail.com
+
+  
